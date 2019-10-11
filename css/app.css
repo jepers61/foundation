@@ -1,0 +1,70 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-image: url(../img/cocina2.jpg);
+  background-attachment: fixed;
+  background-position: center center;
+  background-size:cover;
+}
+.container{
+  background-color: RGB(160,157,116);
+  opacity: 0.9;
+  width: 100%;
+  height: 100%;
+}
+.title{
+  margin-left: 10px;
+}
+h1{
+  padding: 2px;
+  color: white;
+}
+h4{
+  text-align: center;
+  color: white;
+}
+.lv{
+  border-left: 1px solid white;
+  height: auto;
+}
+.izq{
+  background-color: #DCDFF3;
+  border-radius: 5px;
+  padding: 10% 3%;
+  color: #D85CAB;
+}
+h6{
+  padding-top: 1%;
+  color: #D85CAB;
+}
+li{
+  margin: 1px;
+  border: 1px solid #D85CAB;
+}
+.secondary{
+  padding: 3px;
+  margin: 1px;
+}
+.favoritos img{
+  width: 75px;
+  height: 90px;
+}
+.menu a{
+  color: #D85CAB;
+}
+.publico{
+  border: 1px solid #B8AB6F;
+  border-radius: 5px;
+}
+.publico img{
+  width: 60px;
+  padding-top: 10px;
+}
+.coment p{
+  padding-top: 10px;
+}
+p{
+  text-align: justify;
+}
